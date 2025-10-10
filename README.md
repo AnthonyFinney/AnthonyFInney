@@ -8,10 +8,6 @@ I'm a self-taught developer currently focused on building modern web application
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyFinney&show_icons=true&theme=tokyonight)
 
-## My Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnthonyFinney&radius=12&theme=github-dark&hide_border=true)](https://github.com/AnthonyFinney)
-
 ## My Contribution And Most Used Languages
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
