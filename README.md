@@ -11,3 +11,7 @@ I'm a self-taught developer currently focused on building modern web application
 ## My Contribution And Most Used Languages
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## My Holopin badges
+
+[![@anthonyfinney's Holopin board](https://holopin.me/anthonyfinney)](https://holopin.io/@anthonyfinney)
