@@ -6,7 +6,7 @@ I'm a self-taught developer currently focused on building modern web application
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyFinney&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-two-alpha-65.vercel.app/api?username=AnthonyFinney&show_icons=true&theme=tokyonight)
 
 ## My Contribution And Most Used Languages
 
