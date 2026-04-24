@@ -15,9 +15,9 @@ I'm a self-taught developer currently focused on building modern web application
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyFinney&theme=gruvbox" alt="GitHub activity graph"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnthonyFinney/Adib23704/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnthonyFinney/Adib23704/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Adib23704/AnthonyFinney/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnthonyFinney/AnthonyFinney/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnthonyFinney/AnthonyFinney/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnthonyFinney/AnthonyFinney/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <!-- <img src="assets\divider.gif" alt="Divider animation">
