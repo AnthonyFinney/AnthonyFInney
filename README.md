@@ -1,6 +1,12 @@
-<h1 align="center">Hi there, I'm Soshie Anthony Finney <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm Soshie Anthony Finney <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Adib23704/Adib23704/f85f9642fb4357035d9201daf31e3e7c94ea28f4/assets/divider.gif" alt="Divider animation"><h2>Tech Stack</h3>
+
+<img src="https://raw.githubusercontent.com/Adib23704/Adib23704/f85f9642fb4357035d9201daf31e3e7c94ea28f4/assets/divider.gif" alt="Divider animation">
+
+<h2 style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc4eGVsemc3bTNzMzRrdWd5cWE3OXoxMGFxZ3F2aTBnbnNiY2Q0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPcK9TTV2CuCJp7ki6/giphy.gif" width="80" alt="Tech Stack Icon">
+  Tech Stack
+</h2>
 
 <table><tr><td valign="top" align="center" width="33%">
 
@@ -22,14 +28,24 @@
 
 </td></tr></table>
 
-<img src="assets\divider.gif" alt="Divider animation">
-<h2>Statistics</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyFinney&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="GitHub stats" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyFinney&theme=gruvbox" height="180em" alt="Repositories stats" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyFinney&theme=gruvbox" height="180em" alt="Profile details" />
+<img src="assets/divider.gif" alt="Divider animation">
 
-<img src="assets\divider.gif" alt="Divider animation">
-<h2>Activity</h2>
+<h2 style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlndWMxODd5MnF4eXVxbnVqYzQzdndyMWZuNnB6YWo4cDJoemg1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnj3fj9zQAVms8zMNg/giphy.gif" width="80" alt="Statistics Icon">
+  Statistics
+</h2>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnthonyFinney&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="GitHub stats" />
+<img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyFinney&theme=gruvbox" alt="Repositories stats" />
+<img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyFinney&theme=gruvbox" alt="Profile details" />
+
+<img src="assets/divider.gif" alt="Divider animation">
+
+<h2 style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNzcnUybmtkcGVtdmVob24ybTk5Y3hmYWNlZzFpYXA2NDg5NG5iZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kg2lbqioejJP37lcx9/giphy.gif" width="80" alt="Activity Icon">
+  Activity
+</h2>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyFinney&theme=gruvbox" alt="GitHub activity graph"/>
 
 <picture>
@@ -38,13 +54,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnthonyFinney/AnthonyFinney/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!-- <img src="assets\divider.gif" alt="Divider animation">
-<h2>My Contribution And Most Used Languages</h3>
+<img src="assets/divider.gif" alt="Divider animation">
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg) -->
-
-<img src="assets\divider.gif" alt="Divider animation">
-<h2>My Holopin badges</h3>
+<h2 style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWkxNjJyYjlsdG01NTNlanptcWpna2NoMmp4NHZncWpnc2lrcnI3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BdeumUhFUZLxCXjP66/giphy.gif" width="80" alt="Badges Icon">
+  My Holopin badges
+</h2>
 
 [![@anthonyfinney's Holopin board](https://holopin.me/anthonyfinney)](https://holopin.io/@anthonyfinney)
 
