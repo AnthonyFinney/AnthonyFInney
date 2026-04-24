@@ -35,7 +35,7 @@
 
 <img src="assets/divider.gif" alt="Divider animation">
 
-<h2 align="center"><img src="https://media.giphy.com/media/kg2lbqioejJP37lcx9/giphy.gif" width="80" alt="Graph GIF" align="absmiddle">&nbsp; Activity</h2>
+<h2 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRnM3d4YmhtNnJsN2ZwYmtpcWpmZjFtcDh4dXpzaGpoNWVnd2sxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" width="80" alt="Activity Icon" align="absmiddle">&nbsp;Activity</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyFinney&theme=gruvbox" alt="GitHub activity graph"/>
 
