@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Adib23704/Adib23704/f85f9642fb4357035d9201daf31e3e7c94ea28f4/assets/divider.gif" alt="Divider animation">
 
-<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc4eGVsemc3bTNzMzRrdWd5cWE3OXoxMGFxZ3F2aTBnbnNiY2Q0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPcK9TTV2CuCJp7ki6/giphy.gif" width="80" alt="Tech Stack Icon" align="absmiddle">&nbsp;Tech Stack</h2>
+<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc4eGVsemc3bTNzMzRrdWd5cWE3OXoxMGFxZ3F2aTBnbnNiY2Q0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPcK9TTV2CuCJp7ki6/giphy.gif" width="80" alt="Tech Stack Icon" align="absmiddle">Tech Stack</h2>
 
 <table><tr><td valign="top" align="center" width="33%">
 
@@ -27,7 +27,7 @@
 
 <img src="assets/divider.gif" alt="Divider animation">
 
-<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlndWMxODd5MnF4eXVxbnVqYzQzdndyMWZuNnB6YWo4cDJoemg1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnj3fj9zQAVms8zMNg/giphy.gif" width="80" alt="Statistics Icon" align="absmiddle">&nbsp;Statistics</h2>
+<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlndWMxODd5MnF4eXVxbnVqYzQzdndyMWZuNnB6YWo4cDJoemg1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnj3fj9zQAVms8zMNg/giphy.gif" width="80" alt="Statistics Icon" align="absmiddle">Statistics</h2>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnthonyFinney&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="GitHub stats" />
 <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyFinney&theme=gruvbox" alt="Repositories stats" />
@@ -47,7 +47,7 @@
 
 <img src="assets/divider.gif" alt="Divider animation">
 
-<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWkxNjJyYjlsdG01NTNlanptcWpna2NoMmp4NHZncWpnc2lrcnI3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BdeumUhFUZLxCXjP66/giphy.gif" width="80" alt="Badges Icon" align="absmiddle">&nbsp;My Holopin badges</h2>
+<h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWkxNjJyYjlsdG01NTNlanptcWpna2NoMmp4NHZncWpnc2lrcnI3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BdeumUhFUZLxCXjP66/giphy.gif" width="80" alt="Badges Icon" align="absmiddle">My Holopin badges</h2>
 
 [![@anthonyfinney's Holopin board](https://holopin.me/anthonyfinney)](https://holopin.io/@anthonyfinney)
 
