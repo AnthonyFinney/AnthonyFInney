@@ -1,8 +1,26 @@
-<h1>Hi there, I'm Soshie Anthony Finney <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm Soshie Anthony Finney <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Adib23704/Adib23704/f85f9642fb4357035d9201daf31e3e7c94ea28f4/assets/divider.gif" alt="Divider animation"><h2>Tech Stack</h3>
 
-<h2>About Me</h3>
+<table><tr><td valign="top" align="center" width="33%">
 
-I'm a self-taught developer currently focused on building modern web applications.
+### Frontend
+
+![Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap&perline=4)
+
+</td><td valign="top" align="center" width="33%">
+
+### Backend
+
+![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mysql,expressjs,mongodb,nextjs&perline=4)
+
+</td><td valign="top" align="center" width="33%">
+
+### DevOps
+
+![Skills](https://skillicons.dev/icons?i=ubuntu,git,bash,docker&perline=4)
+
+</td></tr></table>
 
 <img src="assets\divider.gif" alt="Divider animation">
 <h2>Statistics</h3>
@@ -29,3 +47,5 @@ I'm a self-taught developer currently focused on building modern web application
 <h2>My Holopin badges</h3>
 
 [![@anthonyfinney's Holopin board](https://holopin.me/anthonyfinney)](https://holopin.io/@anthonyfinney)
+
+</div>
