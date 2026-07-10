@@ -29,7 +29,6 @@
 
 <h2 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlndWMxODd5MnF4eXVxbnVqYzQzdndyMWZuNnB6YWo4cDJoemg1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnj3fj9zQAVms8zMNg/giphy.gif" width="80" alt="Statistics Icon" align="absmiddle">Statistics</h2>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnthonyFinney&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="GitHub stats" />
 <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyFinney&theme=gruvbox" alt="Repositories stats" />
 <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyFinney&theme=gruvbox" alt="Profile details" />
 
